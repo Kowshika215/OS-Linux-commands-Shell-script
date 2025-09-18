@@ -639,6 +639,9 @@ fi
 ./psswdperm.sh
 ## OUTPUT
 
+<img width="653" height="151" alt="image" src="https://github.com/user-attachments/assets/2c63ec36-02c9-443a-bca5-035d9ce21f98" />
+
+
 # check if with file location
 cat>ifnested.sh 
 ```bash
@@ -783,6 +786,9 @@ $ chmod 755 ifnested.sh
 $ ./ifnested.sh 
 ## OUTPUT
 
+<img width="638" height="231" alt="image" src="https://github.com/user-attachments/assets/83928a4a-ba87-47bd-a205-351893589769" />
+
+
 # looking for a possible value using elif
 cat elifcheck.sh 
 ```bash
@@ -811,6 +817,8 @@ $ chmod 755 elifcheck.sh
 $ ./elifcheck.sh 
 ## OUTPUT
 
+<img width="641" height="153" alt="image" src="https://github.com/user-attachments/assets/849ebf5b-32ad-4251-896f-b0ae9d526f7e" />
+
 
 # testing compound comparisons
 cat> ifcompound.sh 
@@ -826,6 +834,8 @@ fi
 $ chmod 755 ifcompound.sh
 $ ./ifcompound.sh 
 ## OUTPUT
+
+<img width="521" height="127" alt="image" src="https://github.com/user-attachments/assets/0fcaf2af-2524-4b6b-9fc2-420eb9a037b9" />
 
 # using the case command
 cat >casecheck.sh 
@@ -845,7 +855,9 @@ esac
 $ chmod 755 casecheck.sh 
  
 $ ./casecheck.sh 
- 
+
+<img width="430" height="127" alt="image" src="https://github.com/user-attachments/assets/92731ee4-e284-4278-bf5a-cb7dfcd5d2bd" />
+
 cat > whiletest
 ```bash
 #!/bin/bash
@@ -861,7 +873,9 @@ $ chmod 755 whiletest.sh
  
 $ ./whiletest.sh
  
- 
+<img width="432" height="347" alt="image" src="https://github.com/user-attachments/assets/8b8600f5-3719-4a4c-8154-b65aa45de1cb" />
+
+
 cat untiltest.sh 
 ```bash
 \#using the until command
@@ -874,7 +888,9 @@ done
 ``` 
 $ chmod 755 untiltest.sh
  
- 
+ <img width="408" height="198" alt="image" src="https://github.com/user-attachments/assets/b3bf0fa9-eeb1-4149-8f20-3ca179591a82" />
+
+
  
 cat forin1.sh 
 ```bash
@@ -888,7 +904,9 @@ done
  
 $ chmod 755 forin1.sh
  
- 
+ <img width="513" height="282" alt="image" src="https://github.com/user-attachments/assets/acb60a08-7c6d-40f2-b24a-d8bceeb67c50" />
+
+
 cat forin2.sh 
 ```bash
 \#!/bin/bash
@@ -913,7 +931,9 @@ done
 $ chmod 755 forin2.sh
  
 $ ./forin2.sh 
- 
+
+ <img width="490" height="200" alt="image" src="https://github.com/user-attachments/assets/cfbc097f-51ad-44e8-8924-f0f6719d3736" />
+
 cat forin3.sh 
 ```bash
 \#!/bin/bash
@@ -924,7 +944,9 @@ echo "word:$test"
 done
 ```
 $ ./forin3.sh 
- 
+
+<img width="466" height="272" alt="image" src="https://github.com/user-attachments/assets/83d53465-d173-4bc2-a667-962f88dcef59" />
+
 cat forin1.sh 
 ```bash
 #!/bin/bash
