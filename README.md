@@ -1171,7 +1171,7 @@ $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
  
-<img width="407" height="182" alt="image" src="https://github.com/user-attachments/assets/b64c771e-741b-498c-aad5-7e3b4beb3c24" />
+<img width="448" height="457" alt="image" src="https://github.com/user-attachments/assets/5e389c9c-1ff7-4002-88ee-c6666e6bbcd1" />
 
 cat argshift.sh
 ```bash
@@ -1216,7 +1216,9 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
- 
+
+ <img width="397" height="377" alt="image" src="https://github.com/user-attachments/assets/e025174a-e612-4d7a-91f6-c9be0d57c06f" />
+
 cat > palindrome.sh
 ```bash
 #num=545
@@ -1243,6 +1245,8 @@ else
 fi
 ```
 ## OUTPUT 
+
+<img width="486" height="305" alt="image" src="https://github.com/user-attachments/assets/facdffb1-3f4f-47a5-a94c-e578500ea99b" />
 
 
 # RESULT:
